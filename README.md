@@ -1,0 +1,1 @@
+# konut_de-eri_regresyon
